@@ -6,7 +6,7 @@ The presentation was mainly about a simple Flutter app demonstrating the **Dragg
 1. Clone the repository:
    [Git clone](https://github.com/kenchirchir/Widget-presentation.git)
 2. Navigate into the project folder mainly by 
-   cd draggable_demo and from here you will be able to access everythng.
+   cd into "draggable_demo" and from here you will be able to access everythng.
 3. Run the app:
    flutter run
 
