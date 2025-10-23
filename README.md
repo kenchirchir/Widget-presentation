@@ -1,6 +1,6 @@
-# Draggable Widget Demo 🟦
+# Draggable Widget Demo 
 
-A simple Flutter app demonstrating the **Draggable** widget. Drag the blue box into the target area to change the target’s color.
+The presentation was mainly about a simple Flutter app demonstrating the **Draggable** widget. Drag the blue box into the target area to change the target’s color.
 
 ## How to Run
 1. Clone the repository:
