@@ -11,7 +11,7 @@ The presentation was mainly about a simple Flutter app demonstrating the **Dragg
    flutter run
 
 ## Widget: Draggable
-The `Draggable` widget allows users to move widgets across the screen and interact with `DragTarget`.
+The `Draggable` widget allows users to move widgets across the screen down to the other box and interact with `DragTarget`.
 
 ### Attributes Demonstrated
 | Attribute | Description |
