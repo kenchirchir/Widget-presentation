@@ -29,9 +29,3 @@ The `Draggable` widget allows users to move widgets across the screen and intera
 ## Reference
 [Flutter Draggable Widget](https://api.flutter.dev/flutter/widgets/Draggable-class.html)
 
-~                                                                                                             
-~                                                                                                             
-~                                                                                                             
-~                                                                                                             
-~                                                                                                             
-~
