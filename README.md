@@ -15,6 +15,10 @@ The rest of the screen displays a scrollable list of items built efficiently wit
 3. Run the app:
    flutter run
 
+## 📸 Demo Screenshot
+
+![Sliver App Bar Demo](./Screenshot%202025-11-06%20at%2013.43.48.png)
+
 ## Widget: Draggable
 The `Draggable` widget allows users to move widgets across the screen down to the other box and interact with `DragTarget`.
 
