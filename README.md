@@ -31,8 +31,6 @@ The `Draggable` widget allows users to move widgets across the screen down to th
 | `FlexibleSpaceBar` | Provides expanding background + title animation |
 | `SliverList` | Displays scrollable list items efficiently |
 
-## Screenshot
-![Screenshot](screenshot.png)
 
 ## Presentation Date
 (Thursday November 6th)
