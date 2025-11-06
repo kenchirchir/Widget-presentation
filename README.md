@@ -1,31 +1,38 @@
 # Draggable Widget Demo 
 
-The presentation was mainly about a simple Flutter app demonstrating the **Draggable** widget. Drag the blue box into the target area to change the target’s color.
+The presentation was mainly about a simple Flutter app demonstrating the **SilverAppBar** widget.to create collapsible headers and scrollable content just like in modern mobile apps eg Spotify Album cover.
+
+## Overview
+In class I was able to demonstrate how this widget works.When you scroll down, the header area (with gradient background) smoothly collapses into a pinned app bar.  
+The rest of the screen displays a scrollable list of items built efficiently with `SliverList`.
+
 
 ## How to Run
 1. Clone the repository:
    [Git clone](https://github.com/kenchirchir/Widget-presentation.git)
 2. Navigate into the project folder mainly by 
-   cd into "draggable_demo" and from here you will be able to access everythng.
+   cd into "sliver_app" and from here you will be able to access everythng.
 3. Run the app:
    flutter run
 
 ## Widget: Draggable
 The `Draggable` widget allows users to move widgets across the screen down to the other box and interact with `DragTarget`.
 
-### Attributes Demonstrated
-| Attribute | Description |
-|-----------|-------------|
-| feedback | Widget displayed while dragging |
-| childWhenDragging | Widget displayed at the original spot while dragging |
-| data | Data sent to DragTarget on drop |
+### Key Widgets Used
+
+| Widget | Purpose |
+|--------|----------|
+| `CustomScrollView` | The parent scrollable area that holds slivers |
+| `SliverAppBar` | Creates a collapsible and pinned header |
+| `FlexibleSpaceBar` | Provides expanding background + title animation |
+| `SliverList` | Displays scrollable list items efficiently |
 
 ## Screenshot
 ![Screenshot](screenshot.png)
 
 ## Presentation Date
-(Thursday October 23rd)
+(Thursday November 6th)
 
 ## Reference
-[Flutter Draggable Widget](https://api.flutter.dev/flutter/widgets/Draggable-class.html)
+Flutter Official Documentation: [SliverAppBar Class](https://api.flutter.dev/flutter/material/SliverAppBar-class.html)
 
