@@ -1,4 +1,4 @@
-# Draggable Widget Demo 
+# Silver App Bar widget. 
 
 The presentation was mainly about a simple Flutter app demonstrating the **SilverAppBar** widget.to create collapsible headers and scrollable content just like in modern mobile apps eg Spotify Album cover.
 
